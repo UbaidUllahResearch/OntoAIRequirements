@@ -1,4 +1,4 @@
-# UbaidUllahResearch
+# OntoAIR: An Ontology-driven Framework for Automated Requirements Engineering in AI-enabled Systems
 
 ## Overview
 
@@ -52,8 +52,3 @@ The ontology and rules were evaluated across four AI system case studies:
 - Predictive AI (Phishing Detection Evasion)
 
 The practitioner survey involved 65 domain experts from requirements engineering, AI development, and security engineering.
-
-
-  journal   = {To appear},
-  year      = {2026}
-}
